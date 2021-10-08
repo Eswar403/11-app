@@ -1,15 +1,14 @@
 *{My APP}
-**By..{Sagar}
+**By..Sagar
 
+This is for practice
 
 CONTENTS OF THIS FILE
 ---------------------
+#/bash/bin
+<HTML>
+<JS>
+<AWS>
+<LINUX>
 
- * Introduction
- * Requirements
- * Recommended modules
- * Installation
- * Configuration
- * Troubleshooting
- * FAQ
- * Maintainers
+
